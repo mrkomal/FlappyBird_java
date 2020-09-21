@@ -1,3 +1,4 @@
 # FlappyBird_java
 - simplified version of the well-known mobile game :iphone:
-- game was written in Java
+- game was written in Java :computer:
+- hobby project :pencil2:
